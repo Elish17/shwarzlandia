@@ -1,0 +1,2 @@
+# shwarzlandia
+linux &amp; python 
