@@ -1,2 +1,2 @@
 # shwarzlandia
-linux &amp; python 
+python &  smart devices ??
